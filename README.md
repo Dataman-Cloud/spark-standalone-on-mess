@@ -31,6 +31,7 @@
 
 ```SPARK_MASTER_URL=spark://spark-master-ip1:7077,spark-master-ip2:7077```  
 
+
 ## 3 测试  
 
 1. 访问以下网址，可以查看 spark 集群状态：
