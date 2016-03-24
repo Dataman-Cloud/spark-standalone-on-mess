@@ -1,4 +1,4 @@
-# spark-standalone-on-mess
+# spark-standalone-on-mesos
 
 在数人云上部署一个 standalone 模式的 spark。
 
