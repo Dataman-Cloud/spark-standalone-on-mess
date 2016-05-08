@@ -35,7 +35,9 @@
 
 1. 访问以下网址，可以查看 spark 集群状态：
 
+
 ```http://spark-master-ip:8080```  
+
 
 2. 通过以下命令启动 spark-shell：
 
